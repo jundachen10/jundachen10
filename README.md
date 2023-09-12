@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-gold-alpha.vercel.app/api?username=jundachen10&show_icons=true&theme=radical))
+![Anurag's GitHub stats](https://github-readme-stats-gold-alpha.vercel.app/api?username=jundachen10&show_icons=true&theme=radical&hide_rank=true'))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundachen10&layout=compact&theme=radical))
 
 <!--
